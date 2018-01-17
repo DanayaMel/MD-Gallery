@@ -9,6 +9,7 @@ require(['be'], function(be) {
      for(var i=3; i<6; i++){
 
       var pic = photos[i].covers.original;
+      // echo(pic +' appended to index.html.');
 
       var oImg = document.createElement("img");
       oImg.setAttribute('src', pic);
