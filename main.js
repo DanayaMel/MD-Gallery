@@ -1,5 +1,5 @@
 require(['be'], function(be) {
- be('nvmiXCt9qSGwKVURae8c7QVpYeEBrOPU');
+ be('YOUR CLIENT KEY HERE');
 });
 
 require(['be'], function(be) {
@@ -26,7 +26,7 @@ require(['be'], function(be) {
 //There was going to be a button to add new photos but i got lazy.
 // function newPics() {
 //  require(['be'], function(be) {
-//   be('nvmiXCt9qSGwKVURae8c7QVpYeEBrOPU');
+//   be('YOUR CLIENT KEY HERE');
 //
 //    be.project.search('cats')
 //    .then(function success(results){
